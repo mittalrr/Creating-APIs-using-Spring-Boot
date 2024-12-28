@@ -1,0 +1,3 @@
+com\rest\api\controllers\ProductController.class
+com\rest\api\entities\Product.class
+com\rest\api\SpringBootTutorialAppApplication.class
